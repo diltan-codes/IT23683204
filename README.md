@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tamil Transliteration Test Suite
 
 This project is an automated end-to-end test suite created to validate Tamil transliteration functionality on the Changathi Tamil Translator website.
@@ -55,3 +56,6 @@ https://tamil.changathi.com
 npm install
 
 git repository link - 
+=======
+# IT23683204
+>>>>>>> abd31df225630b7ba46f22af933ad504312a7e99
